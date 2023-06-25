@@ -1,0 +1,1 @@
+DFT.c contains the code for solving the radial equation of hydrogen atom using density functional theory and Kohn-Sham equations.
