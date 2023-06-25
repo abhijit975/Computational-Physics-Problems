@@ -1,0 +1,1 @@
+This folder contains the code for solving eigenvalue equation (for a Hamiltonian) and linear system of equations using Cholskey decomposition.
