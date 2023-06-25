@@ -1,3 +1,6 @@
+This folder contains files for calculating the fractal dimension of the Duffing oscillator and the diffusion-limited aggregation. Please see the report.pdf file for a more detailed discussion. The codes are implemented using the Numerical Recipes in C repository.
+
+
 Q1.
 
 To create the executable file please type cc *.c -lm -o q1.x
